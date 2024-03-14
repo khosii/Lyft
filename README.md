@@ -1,11 +1,6 @@
 # Starter Repo
 This repo has everything you need to get started on the program, good luck!
 
-okay so im going to need different classes for the batteries 
-tires im not sure or we could create a tire class with the condition that 
-if tires == flat the car_should_be_serviced
-else 
-return false
 * Be able to add a NEW SERVICE CRITERIA and change which parts 
 for each car model 
 e.g. change the battery installed on the Thovex - model from 
